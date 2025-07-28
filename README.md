@@ -1,4 +1,6 @@
-## 👋 Hi there! I'm Aziz Hlel
+<!-- ## 👋 Hi there! I'm Aziz Hlel -->
+[![](https://raw.githubusercontent.com/aziz-hlel/aziz-hlel/main/Banner.gif)]
+
 
 ### Languages
 
