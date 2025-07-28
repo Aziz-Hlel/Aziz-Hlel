@@ -9,21 +9,29 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 
-### Frameworks
+### Frameworks & Libraries
 
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Express](https://img.shields.io/badge/-Express-000?logo=express)
 ![Django](https://img.shields.io/badge/-Django-000?logo=django)
-
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![TailwindCss](https://img.shields.io/badge/-TailwindCss-000?&logo=tailwindcss)
+![Shadcnui](https://img.shields.io/badge/-ShadCn-000?&logo=shadcnui)
+![Tauri](https://img.shields.io/badge/-Tauri-000?&logo=tauri)
 
 
 ### Technologies
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![GitHubActions](https://img.shields.io/badge/-Github%20Actions-000?logo=githubactions)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![gnubash](https://img.shields.io/badge/-Bash-000?&logo=bash)
+![make](https://img.shields.io/badge/-Makefile-000?&logo=make)
 ![Caddy](https://img.shields.io/badge/-Caddy-000?logo=caddy)
+![Nginx](https://img.shields.io/badge/-Nginx-000?logo=nginx)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
+![Stripe](https://img.shields.io/badge/-Stripe-000?&logo=stripe)
+
 
 
 ### Cloud
