@@ -1,4 +1,5 @@
-## Hi there 👋
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+
 
 ### Languages
 
@@ -7,6 +8,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![postgresql](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+![mongodb](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 
 
 ### Frameworks & Libraries
@@ -25,7 +28,7 @@
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![GitHubActions](https://img.shields.io/badge/-Github%20Actions-000?logo=githubactions)
-![gnubash](https://img.shields.io/badge/-Bash-000?&logo=bash)
+![gnubash](https://img.shields.io/badge/-Bash-000?&logo=gnubash)
 ![make](https://img.shields.io/badge/-Makefile-000?&logo=make)
 ![Caddy](https://img.shields.io/badge/-Caddy-000?logo=caddy)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?logo=nginx)
